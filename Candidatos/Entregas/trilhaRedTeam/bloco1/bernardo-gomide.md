@@ -1,8 +1,8 @@
-# Onboarding SACI 2026.2 - Hardware Hacking
+# Onboarding SACI 2026.2 - segurança ofensiva
 
 ## Dados do Candidato
-* **Nome:** [Bernardo Gomide Lima Da Conceição]
-* **Curso:** [Sistemas de Informação]
+* **Nome:** Bernardo Gomide Lima Da Conceição
+* **Curso:** Sistemas de Informação
 * **Trilha:** Red Team
 
 ---
